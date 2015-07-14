@@ -1,0 +1,19 @@
+{
+  "name": "aglio",
+  "version": "1.0.0",
+  "description": "Sample API Document with aglio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "APIBlueprint",
+    "aglio"
+  ],
+  "author": "Shingo Yamazaki",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-aglio": "0.0.7"
+  }
+}
