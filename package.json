@@ -13,7 +13,9 @@
   "author": "Shingo Yamazaki",
   "license": "MIT",
   "devDependencies": {
+    "browser-sync": "^2.7.13",
     "gulp": "^3.9.0",
-    "gulp-aglio": "0.0.7"
+    "gulp-aglio": "0.0.7",
+    "gulp-rename": "^1.2.2"
   }
 }
