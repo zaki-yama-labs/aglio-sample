@@ -9,7 +9,7 @@ var TEMPLATE_FILES = ['_docs/*.md'],
     PUBLISHED_DIR = 'docs';
 
 gulp.task('docs', function () {
-  gulp.src('_docs/*.md')
+  gulp.src('_docs/api.md')
     .pipe(aglio({ template: 'default' }))
     .pipe(rename('index.html'))
     .pipe(gulp.dest('docs'));
