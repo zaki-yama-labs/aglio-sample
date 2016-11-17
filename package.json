@@ -15,8 +15,8 @@
   "devDependencies": {
     "browser-sync": "^2.7.13",
     "gulp": "^3.9.0",
-    "gulp-aglio": "0.0.7",
-    "gulp-ejs": "^1.1.0",
+    "gulp-aglio": "0.0.10",
+    "gulp-ejs": "^2.2.1",
     "gulp-rename": "^1.2.2",
     "rimraf": "^2.4.1"
   }
