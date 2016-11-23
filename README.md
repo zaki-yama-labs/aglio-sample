@@ -1,3 +1,5 @@
+(deprecated: This repository is old. Please see [api-blueprint-template](https://github.com/zaki-yama/api-blueprint-template))
+
 API Documentation Tool with aglio
 =================================
 
